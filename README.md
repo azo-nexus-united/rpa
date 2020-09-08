@@ -1,14 +1,14 @@
-![Alt text](https://octodex.github.com/images/dojocat.jpg)
+<p align="center"><img src="https://octodex.github.com/images/dojocat.jpg" width="200"></p>
 
-# Coding Challenge
+<h1 align="center">Coding Challenge</h1>
 
-Welcome Adrian at nexus-united to this coding challenge.<br />
-You will be guided today throw our onsite interview and you will be challenged to code a storefront.
+Welcome to this coding challenge at nexus-united.<br />
+You will be guided today throw the interview and you'll be challenged to code a storefront.
 
 Before you start, be sure to complete these instructions.<br />
 When you have any questions or need support, do not hesitate to ask for help. :)
 
-The following timetable should help you, to get an overview for today's schedule
+The following timetable should help, to get an overview for today's schedule
 
 |time|description|
 |---|---|
