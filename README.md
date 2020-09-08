@@ -21,6 +21,12 @@ The following timetable should help, to get an overview for today's schedule
 ---
 
 ### Goal
+
+You can choose between three starting points:
+- Checkout this repository and start your development inside `./typescript`
+- Checkout this repository and start your development inside `./javascript`
+- Do not use this repository and start your development based on `React`
+
 The goal for this challenge:
 - Create a storefront that represents a listing page.
 - Fetch the listing entry from https://fakestoreapi.com
@@ -33,11 +39,6 @@ The goal for this challenge:
 Extras:
 - Add pagination functionality
 - Add a search 
-
-You can choose between three starting points:
-- Checkout this repository and start your development inside `./typescript`
-- Checkout this repository and start your development inside `./javascript`
-- Do not use this repository and start your development based on `React`
 
 ---
 
