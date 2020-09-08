@@ -8,30 +8,30 @@ You will be guided today throw our onsite interview and you will be challenged t
 Before you start, be sure to complete these instructions.<br />
 When you have any questions or need support, do not hesitate to ask for help. :)
 
-The following timetable should help you, to get an overview for todays sheduals
+The following timetable should help you, to get an overview for today's schedule
 
 |time|description|
 |---|---|
 |10:00|start|
 |10:30|coding challenge|
 |13:00|break|
-|14:00|review/disscussion|
+|14:00|review/discussion|
 |15:00|closing meeting|
 
 ---
 
 ### Goal
 The goal for this challenge:
-- create a storefront that represents a listing page.
-- fetch the listing entry from https://fakestoreapi.com
-- limit the visible entries by 12
+- Create a storefront that represents a listing page.
+- Fetch the listing entry from https://fakestoreapi.com
+- Limit the visible entries by 12
 - you can use functional and class components
 - try to accomplish a realistic representation that's aligned with the design
 - be able to toggle between block and list view
 - please note to implement a responsive behavior
 
 Extras:
-- Add pagination functionalitiy
+- Add pagination functionality
 - Add a search 
 
 You can choose between three starting points:
